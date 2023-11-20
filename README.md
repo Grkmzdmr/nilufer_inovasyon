@@ -1,4 +1,4 @@
-------------------------------------KAZANIMLAR VE PROJE AKIŞI--------------------------------------------------------------------------
+------------------------------------KAZANIMLAR VE PROJE AKIŞI--------------------------------------------------
 
 İlk olarak hazırlanan projeyi temizliyoruz.
 
@@ -251,6 +251,19 @@ Buraya kadar yaptıklarımızı tartışıyoruz.
 - StreamBuilder ve StreamController'ı öğreniyoruz.
 
 
+- Renk kodundan ekrana basmak için renk oluşturan methodu yazıyoruz.
+
+- Kayıt ol methodundan dönen cevaba uygun model yazıyoruz.
+
+- Kayıt ol methodunu yazıyoruz ve çalışacak hale getiriyoruz.
+
+- Kayıt ol sayfasında çalıştırıyoruz.
+
+- SharedPreferences paketini tanıyoruz ve kullanmaya başlıyoruz.
+
+- Splash sayfası oluşturuyoruz
+  - Bu sayfada kullanıcı daha önce giriş yaptıysa giriş yap sayfasına değil ana sayfaya gönder methodunu yazıyoruz.
+  
 
 
 
